@@ -1,0 +1,6 @@
+ls -  lista todos os arquivos e pastas do diretório.
+cd - Muda de diretório.
+Pwd - Informa o caminho absoluto do local.
+. - É a própria pasta.
+.. - Voltar a pasta anterior.
+mkdir - Make diretório, criar nova pasta no diretório.
