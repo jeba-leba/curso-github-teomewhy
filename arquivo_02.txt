@@ -1,0 +1,3 @@
+Aqui é um arquivo da branch secundaria02
+
+Adicionei uma nova linha aqui no arquivo
