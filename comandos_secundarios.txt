@@ -2,3 +2,6 @@ esse arquivo contem comandos secundários de git
 
 Comandos mais genéricos
 - Comandos estranhos
+
+Mais comandos ainda
+- Oloco
