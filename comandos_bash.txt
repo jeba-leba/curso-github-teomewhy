@@ -9,3 +9,5 @@ rm -rf - apagar a pasta e subpasta sem pedir confirmação.
 
 . - É a própria pasta.
 .. - Voltar a pasta anterior.
+
+fodase
