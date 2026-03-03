@@ -2,3 +2,5 @@ git status - Da um status de onde estamos, informa se temos commits
 git add <nome arquivo> - Adiciona o arquivo deixando ele disponivel para commitar
 git log - mostra todos os commits
 
+alo
+
