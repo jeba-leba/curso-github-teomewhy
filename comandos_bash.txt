@@ -1,6 +1,9 @@
 ls -  lista todos os arquivos e pastas do diretório.
 cd - Muda de diretório.
 pwd - Informa o caminho absoluto do local.
+
+O cara ta louco
+
 mkdir - Make diretório, criar nova pasta no diretório.
 cat - comando para ler os arquivos editáveis.
 git init . - transforma a pasta atual em uma pasta git.
