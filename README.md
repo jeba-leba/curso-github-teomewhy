@@ -14,5 +14,7 @@ Também vou trabalhar e aprender GitFlow e Visual Studio Code.
 
 
 
+Caso queiram aprender sobre programação, dados, etc.
 
+Segue o link dos cursos do teo cursos.teomewhy.org/trilhas
 
