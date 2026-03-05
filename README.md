@@ -1,24 +1,11 @@
 ## Curso Git e GitHub teomewhy
 
+Este foi um projeto criado a partir do curso de Git e Github mestrado pelo Teo Calvo da Teomewhy.
 
+Aprendi bastante sobre os comandos gits, usando tanto o git bash quanto o VS Code.
 
-Isto é um projeto de um curso que estou fazendo para aprender
+Aprendi sobre os fluxos de trabalhos modelos, com boas praticas de criação de branches, commits, etc.
 
-a mexer com versionamento de código e repositórios remotos
-
-com GitHub.
-
-
-
-Também vou trabalhar e aprender GitFlow e Visual Studio Code.
-
-
-
-Caso queiram aprender sobre programação, dados, etc.
-
-Segue o link dos cursos do teo:
+Vou deixar o link abaixo para quem quiser conhecer o site do Teo, onde vai encontrar alem deste curso de Git/Github váios outros.
 
 [Curso Git 2025] (https://cursos.teomewhy.org/trilhas)   
-
-
-Estou alterando o Readme mais uma vez para demonstrar o GitFlow. Criando uma nova branch com padrão de branches da medium.
