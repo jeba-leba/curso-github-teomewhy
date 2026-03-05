@@ -19,3 +19,6 @@ Caso queiram aprender sobre programação, dados, etc.
 Segue o link dos cursos do teo:
 
 [Curso Git 2025] (https://cursos.teomewhy.org/trilhas)   
+
+
+Estou alterando o Readme mais uma vez para demonstrar o GitFlow. Criando uma nova branch com padrão de branches da medium.
