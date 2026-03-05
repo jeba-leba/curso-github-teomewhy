@@ -18,4 +18,4 @@ Caso queiram aprender sobre programação, dados, etc.
 
 Segue o link dos cursos do teo:
 
-[Curso Git 2025} (https://cursos.teomewhy.org/trilhas)   
+[Curso Git 2025] (https://cursos.teomewhy.org/trilhas)   
